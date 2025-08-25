@@ -19,4 +19,4 @@ The site showcases experiments, simulations, and analytics tools across quantita
 
 ## License
 
-This project is licensed under the terms of the [LICENSE](LICENSE) file in this repository.
+This project is licensed under the terms of the [LICENSE](LICENSE.md) file in this repository.
