@@ -6,7 +6,7 @@ This repository contains the source code for my personal research portfolio webs
 The site showcases experiments, simulations, and analytics tools across quantitative finance, including:
 
 - **Quant Models Lab** – a curated playground of Colab notebooks for market regime detection. A curated playground of quantitative finance notebooks, each designed to be run directly in Google Colab. The goal is to make advanced modelling techniques for market data transparent, reproducible, and easy to extend.
-- **TheBeenProject** – a Streamlit-based research project exploring AI-driven trading strategies, inspired by bee foraging behavior. It is not intended for commercial use. The repository is only used for Streamlit-based interactive analytics dashboard for evaluating options strategies. It visualises the outcome of server infrastructure that weekly tests tens of thousands of different classification models and technical features.
+- **TheBeeProject** – a Streamlit-based research project exploring AI-driven trading strategies, inspired by bee foraging behavior. It is not intended for commercial use. The repository is only used for Streamlit-based interactive analytics dashboard for evaluating options strategies. It visualises the outcome of server infrastructure that weekly tests tens of thousands of different classification models and technical features.
 - Additional repositories and forks covering simulation, option pricing, and algorithmic trading.
 
 ---
